@@ -1,2 +1,2 @@
 # test
-test for codebasics git commands
+test for codebasics git commands basic
